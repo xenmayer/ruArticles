@@ -1,4 +1,4 @@
-#Парсим xls и возвращаем результат с помощью PHPExcel (http://www.codeplex.com/PHPExcel)
+# Парсим xls и возвращаем результат с помощью PHPExcel (http://www.codeplex.com/PHPExcel)
 
 Задача:
 Есть файл xls, в котором есть ячейки с данными формата ${key}, которые надо заменить на нужные нам.
